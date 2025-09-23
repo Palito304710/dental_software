@@ -1,0 +1,9 @@
+/Users/palito3047/Documents/repos/dental_software/build/CMakeFiles/untitled.dir
+/Users/palito3047/Documents/repos/dental_software/build/CMakeFiles/edit_cache.dir
+/Users/palito3047/Documents/repos/dental_software/build/CMakeFiles/rebuild_cache.dir
+/Users/palito3047/Documents/repos/dental_software/build/CMakeFiles/list_install_components.dir
+/Users/palito3047/Documents/repos/dental_software/build/CMakeFiles/install.dir
+/Users/palito3047/Documents/repos/dental_software/build/CMakeFiles/install/local.dir
+/Users/palito3047/Documents/repos/dental_software/build/CMakeFiles/install/strip.dir
+/Users/palito3047/Documents/repos/dental_software/build/CMakeFiles/untitled_autogen_timestamp_deps.dir
+/Users/palito3047/Documents/repos/dental_software/build/CMakeFiles/untitled_autogen.dir
